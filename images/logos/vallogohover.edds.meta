@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8E8287F0AF3C8499}VehicleActivityLogs/images/logos/vallogohover.edds"
+ Author "cleetuspc"
+ ChangeDate -295950631
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "vallogohover.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{76CB829367255C29}VehicleActivityLogs/images/logos/vallogo.edds"
+ Author "cleetuspc"
+ ChangeDate -329505063
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "vallogo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
